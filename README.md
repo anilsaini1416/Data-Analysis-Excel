@@ -2,7 +2,8 @@
 
 This project involves a comprehensive analysis of mobile sales data using Microsoft Excel. The goal was to transform raw transaction records into an interactive dashboard that helps business owners track performance and understand customer behavior.
 
-<img width="1650" height="783" alt="Screenshot 2026-05-07 090931" src="https://github.com/user-attachments/assets/119b9be1-68ba-4b6b-be4f-d30dc8ec1b02" />
+<img width="1651" height="785" alt="Screenshot 2026-05-07 094055" src="https://github.com/user-attachments/assets/f79216c0-9bcf-4d3e-bd7d-c0989c399116" />
+
 
 ## 🚀 Key Insights
 
@@ -17,6 +18,8 @@ Payment Trends: Analysis of customer preferences between Online, Cash, and Credi
 ## ⚙️ Features
 
 Dynamic KPIs: Key metrics that update automatically.
+
+Interactive Slicers: Filter data by Location and Payment Method with a single click.
 
 Clean Visuals: Used Bar charts, Pie charts, and Line graphs for easy interpretation.
 
@@ -33,6 +36,8 @@ Formulas: Utilized TEXT, IF, and advanced cell referencing for dynamic reporting
 Download the .xlsx file from this repository.
 
 Open the file in Microsoft Excel.
+
+Use the Slicers on the dashboard to interact with the data and view specific reports.
 
 ## 📬 Contact
 
